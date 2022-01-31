@@ -1,0 +1,32 @@
+[
+  {
+    "numero": 1,
+    "valmistaja": "BMI",
+    "tyyppi": "minitorni",
+    "varusteet": ["näppis", "näyttö", "hiiri"],
+    "hinta": 250,
+    "ohjelmat": [
+      { "nimi": "Teksturi", "hinta": 123 },
+      { "nimi": "Pasianssi", "hinta": 10 }
+    ]
+  },
+  {
+    "numero": 2,
+    "valmistaja": "CERA",
+    "tyyppi": "läppäri",
+    "varusteet": ["hiiri"],
+    "hinta": 350,
+    "ohjelmat": [
+      { "nimi": "Teksturi", "hinta": 10 },
+      { "nimi": "Laskuri", "hinta": 20 }
+    ]
+  },
+  {
+    "numero": 3,
+    "valmistaja": "BMI",
+    "tyyppi": "läppäri",
+    "varusteet": [],
+    "hinta": 150,
+    "ohjelmat": [{ "nimi": "Teksturi", "hinta": 123 }]
+  }
+]
